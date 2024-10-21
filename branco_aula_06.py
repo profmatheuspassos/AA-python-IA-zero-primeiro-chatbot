@@ -16,7 +16,7 @@ def resposta_bot(mensagens):
 print("Bem-vindo ao AsimoBot!")
 mensagens = []
 while True:
-    pergunta = input("Usuário: ")
+    pergunta = input("Mande sua mensagem para o Assistente: ")
     if pergunta.lower() == "x":
         break
     mensagens.append(("user", pergunta))
@@ -25,4 +25,4 @@ while True:
     print(f"Bot: {resposta}")
 
 print("Muito obrigado por usar o AsimoBot!")
-print("mensagens")
+# print("mensagens")
