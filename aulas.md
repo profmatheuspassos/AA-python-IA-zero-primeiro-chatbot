@@ -28,3 +28,10 @@
     * Usar o Github para analisar o código de programadores mais experientes.
 3. Ler documentações (do próprio Python, de bibliotecas, etc.).
 4. Criar projetos pessoais: isso é fundamental para que a programação faça sentido para o aluno. Mas é necessário ter clareza do **por quê** a pessoa quer programar.
+
+**Direcionamento para o futuro**
+_(Após terminar o curso)_
+1. Trilha "Aplicações de IA"
+2. Trilha "Data Science & Machine Learning"
+3. Trilha "Dashboards"
+4. Trilha "Análise de Dados"
